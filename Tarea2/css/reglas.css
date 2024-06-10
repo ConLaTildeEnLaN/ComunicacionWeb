@@ -1,0 +1,148 @@
+@media (min-width: 576px) {
+    .d-sm-block {
+        display: block !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .ms-md-n5 {
+        margin-left: -2.5rem !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .mb-md-4 {
+        margin-bottom: 1.6rem !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .g-xl-5, .gy-xl-5 {
+        --bs-gutter-y: 2.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .g-xl-5, .gx-xl-5 {
+        --bs-gutter-x: 2.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .ms-md-n5 {
+        margin-left: -2.5rem !important;
+    }
+}
+@media (min-width: 768px) {
+    .mb-md-4 {
+        margin-bottom: 1.6rem !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .mt-md-5 {
+        margin-top: 2.5rem !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    h1, .h1 {
+        font-size: 3.6rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    h2, .h2 {
+        font-size: 2.75rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .d-md-block {
+        display: block !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .fs-5 {
+        font-size: 1.5rem !important;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    h5, .h5 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .pe-md-6 {
+        padding-right: 3.5rem !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    h2, .h2 {
+        font-size: 2.75rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .mb-lg-5 {
+        margin-bottom: 2.5rem !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-lg-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: 41.66666667%;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .g-md-6, .gy-md-6 {
+        --bs-gutter-y: 3.5rem;
+    }
+}
+@media (min-width: 768px) {
+    .g-md-6, .gx-md-6 {
+        --bs-gutter-x: 3.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    h4, .h4 {
+        font-size: 1.75rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .h-lg-400px {
+        height: 400px !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-lg-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: 66.66666667%;
+    }
+}
+
+
+
+
